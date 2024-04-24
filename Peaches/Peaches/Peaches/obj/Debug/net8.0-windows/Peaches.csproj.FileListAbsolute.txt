@@ -1,0 +1,17 @@
+D:\reposVS\Peaches\Peaches\Peaches\Peaches\bin\Debug\net8.0-windows\Peaches.exe
+D:\reposVS\Peaches\Peaches\Peaches\Peaches\bin\Debug\net8.0-windows\Peaches.deps.json
+D:\reposVS\Peaches\Peaches\Peaches\Peaches\bin\Debug\net8.0-windows\Peaches.runtimeconfig.json
+D:\reposVS\Peaches\Peaches\Peaches\Peaches\bin\Debug\net8.0-windows\Peaches.dll
+D:\reposVS\Peaches\Peaches\Peaches\Peaches\bin\Debug\net8.0-windows\Peaches.pdb
+D:\reposVS\Peaches\Peaches\Peaches\Peaches\obj\Debug\net8.0-windows\Peaches.Form1.resources
+D:\reposVS\Peaches\Peaches\Peaches\Peaches\obj\Debug\net8.0-windows\Peaches.csproj.GenerateResource.cache
+D:\reposVS\Peaches\Peaches\Peaches\Peaches\obj\Debug\net8.0-windows\Peaches.GeneratedMSBuildEditorConfig.editorconfig
+D:\reposVS\Peaches\Peaches\Peaches\Peaches\obj\Debug\net8.0-windows\Peaches.AssemblyInfoInputs.cache
+D:\reposVS\Peaches\Peaches\Peaches\Peaches\obj\Debug\net8.0-windows\Peaches.AssemblyInfo.cs
+D:\reposVS\Peaches\Peaches\Peaches\Peaches\obj\Debug\net8.0-windows\Peaches.csproj.CoreCompileInputs.cache
+D:\reposVS\Peaches\Peaches\Peaches\Peaches\obj\Debug\net8.0-windows\Peaches.dll
+D:\reposVS\Peaches\Peaches\Peaches\Peaches\obj\Debug\net8.0-windows\refint\Peaches.dll
+D:\reposVS\Peaches\Peaches\Peaches\Peaches\obj\Debug\net8.0-windows\Peaches.pdb
+D:\reposVS\Peaches\Peaches\Peaches\Peaches\obj\Debug\net8.0-windows\Peaches.genruntimeconfig.cache
+D:\reposVS\Peaches\Peaches\Peaches\Peaches\obj\Debug\net8.0-windows\ref\Peaches.dll
+D:\reposVS\Peaches\Peaches\Peaches\Peaches\obj\Debug\net8.0-windows\Peaches.Properties.Resources.resources
